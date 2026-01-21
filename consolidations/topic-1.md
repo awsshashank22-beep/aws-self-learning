@@ -1,18 +1,20 @@
 TASK NAME: Cloud Computing – one-line definition
 PHASE: 1
 TYPE: theory
-ARTIFACTS: none yet
-RECORDING FILE: none yet
+ARTIFACTS: - Recording: recordings/p01_cloudComputing_recording_2026-01-21.md
+RECORDING FILE: [p01_cloudComputing_recording_2026-01-21.md](https://drive.google.com/file/d/1lUpISgRtFdYKCAHeYLNmCTldJsZRXjVt/view?usp=sharing)
 SELF-ASSESSMENT: Pending
 CHECKLIST:
-  - Clarity: Pending
-  - Accuracy: Pending
-  - Pauses/hesitations: Pending
-MISTAKES OBSERVED: none
-CORRECTIONS APPLIED: none
-ONE TRANSFERABLE LESSON: none
-NEXT ACTION: Expand to 2–4 sentence explanation
-DATE: <dd-mm-YYYY>
+  - Clarity: Yes
+  - Accuracy: Yes
+  - Pauses/hesitations: Minor
+MISTAKES OBSERVED: 
+- Slightly exceeded target time
+- Minor hesitation at the beginning
+CORRECTIONS APPLIED: - Will structure answer as definition → example → benefit
+ONE TRANSFERABLE LESSON: Speaking aloud exposes gaps faster than writing.
+NEXT ACTION: Improve the explanation yet
+DATE: <21-01-2026>
 
 ONE-LINE DEFINITION: Cloud computing is the system which provides web services via internet which is scalabale and flexible.
 EXPLAINER (Customer):
