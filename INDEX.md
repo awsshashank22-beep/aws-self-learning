@@ -6,7 +6,7 @@ Welcome to my self-learning repository. This INDEX tracks all labs, runbooks, co
 
 | Topic | Status | Notes |
 |-------|--------|-------|
-| Topic 1 | Not started | |
+| Topic 1 What is Cloud Computing? | Not started | |
 | Topic 2 | Not started | |
 | Topic 3 | Not started | |
 | Topic 4 | Not started | |
