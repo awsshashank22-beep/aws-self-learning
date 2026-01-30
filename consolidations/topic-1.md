@@ -17,6 +17,8 @@ NEXT ACTION: Improve the explanation yet
 DATE: <21-01-2026>
 
 ONE-LINE DEFINITION: Cloud computing is the system which provides web services via internet which is scalabale and flexible.
+
+
 EXPLAINER (Customer):
 <2–4 sentence explanation for a customer>
 Cloud computing is essentially a system of infrastructure in which computer services are provided via internet as an alternative to the conventional on-premises computing services. Cloud computing enables faster, secured, scalable, and flexible infrastructure for any web services that is required.
